@@ -4,7 +4,6 @@ I have graduated from EKKE in Hungary as a Software Engineer, and currently am w
 ## Current Focuses
 - Kotlin
 -   Jetpack compose, XML, Android development
--     For a future Norwegian language learning application
 - Unity C# 2D game development
 -   Pixel art designs
 -   Music creation
